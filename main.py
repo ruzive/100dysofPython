@@ -14,3 +14,4 @@ if random_int == 1:
     print('Heads')
 else:
     print('Tails')
+
